@@ -1,0 +1,29 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>Spanish</Id>
+            <Name>Spanish</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA/yZ9vOnUgkSjcczwZ2TcYAAAAAAQAAAAUwBwAGEAbgBpAHMAaAAAABBmAAAAAQAAIAAAACmuV5ApqAssNU5TcLuU95q//V3OZL/JxZrnvQ7LtSo0AAAAAA6AAAAAAgAAIAAAABsx8aqxHZGjnUT0iD1bPVrFQMfK9xsYOpeKrqclnS00EAAAAO3Rn2RrgbKUyJ2KBcDfL2dAAAAA+VF2SH9ggevEz6P4bnPZmc1OzowZBxzlmpTWkc2QnTt7azl+A46APOOQDx7XB8dBg71aJpWrOm89nQH7mgKbXQ==</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>Spanish</Id>
+            <Name>Spanish</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA/yZ9vOnUgkSjcczwZ2TcYAAAAAAQAAAAUwBwAGEAbgBpAHMAaAAAABBmAAAAAQAAIAAAAIAR0CHSK9wnb0kVErTh5Mzb5aIslZPEpZqFhc8RGleuAAAAAA6AAAAAAgAAIAAAABDA9F5V7PZvVyW/ALAQufcD+wJWescXpxS8UIv6bS2LIAAAAKxGr2BYngcBACvNV25BCS1EAxfEYVlVuVLl+97vzzxuQAAAABtg5ZS4qP/3cB3yftCX7OAsIgKjaSqIfeKRitB+WXA8zZ4NLeN8dPbJrDv9VS5t5euMwfpDF+9k8MjtFjDGAEw=</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>IMMER</TargetServer>
+        <TargetDatabase>CuboAvance2</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>
